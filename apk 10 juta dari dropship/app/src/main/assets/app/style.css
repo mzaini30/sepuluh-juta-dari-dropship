@@ -1,0 +1,19 @@
+body {
+	padding-top: 70px;
+}
+
+img {
+	max-width: 100%;
+}
+
+.medium img {
+	display: block;
+	margin: auto;
+}
+
+.ellipsis {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 75%;
+}
